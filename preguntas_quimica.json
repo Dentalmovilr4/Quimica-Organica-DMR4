@@ -1,0 +1,66 @@
+{
+  "repositorio": "Quimica-Organica-DMR4",
+  "tema": "Generalidades e Hibridación del Carbono",
+  "evaluacion": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la configuración electrónica correcta del átomo de carbono?",
+      "opciones": {
+        "A": "1s1 2s2 2p3",
+        "B": "1s2 2s1 2p3",
+        "C": "1s2 2s2 2p2",
+        "D": "1s2 2s3 2p1"
+      },
+      "respuesta_correcta": "C",
+      [span_0](start_span)"explicacion": "El carbono tiene número atómico 6, distribuyendo sus electrones en los niveles 1 y 2[span_0](end_span)."
+    },
+    {
+      "id": 2,
+      "pregunta": "Cuando el carbono posee enlaces dobles frente a otro átomo de carbono, ¿qué hibridación adopta?",
+      "opciones": {
+        "A": "Diagonal (sp)",
+        "B": "Trigonal (sp2)",
+        "C": "Simple",
+        "D": "Tetragonal (sp3)"
+      },
+      "respuesta_correcta": "B",
+      [span_1](start_span)"explicacion": "La hibridación sp2 es característica de los alquenos con enlaces dobles[span_1](end_span)."
+    },
+    {
+      "id": 3,
+      "pregunta": "La propiedad de tetravalencia del carbono significa que puede formar:",
+      "opciones": {
+        "A": "2 enlaces",
+        "B": "3 enlaces",
+        "C": "4 enlaces",
+        "D": "1 enlace"
+      },
+      "respuesta_correcta": "C",
+      [span_2](start_span)"explicacion": "La tetravalencia permite al carbono formar cuatro enlaces covalentes para alcanzar su estabilidad[span_2](end_span)."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cuál fue el objetivo principal del Protocolo de Kioto establecido en 1997?",
+      "opciones": {
+        "A": "Aumentar la producción de combustibles fósiles",
+        "B": "Reducir las emisiones de gases de efecto invernadero (GEI) en al menos un 5%",
+        "C": "Prohibir el desarrollo industrial en países pobres",
+        "D": "Fomentar la deforestación de bosques tropicales"
+      },
+      "respuesta_correcta": "B",
+      [span_3](start_span)"explicacion": "El protocolo buscaba estabilizar las concentraciones de GEI tomando como base los niveles de 1990[span_3](end_span)."
+    },
+    {
+      "id": 5,
+      "pregunta": "Es una forma alotrópica del carbono:",
+      "opciones": {
+        "A": "Dióxido de carbono",
+        "B": "Metano",
+        "C": "Grafito",
+        "D": "Propano"
+      },
+      "respuesta_correcta": "C",
+      [span_4](start_span)"explicacion": "El grafito y el diamante son las formas alotrópicas naturales más conocidas del carbono sólido[span_4](end_span)."
+    }
+  ]
+}
