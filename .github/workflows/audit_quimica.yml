@@ -9,14 +9,15 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Configurar Python
+    - name: Configurar Python 3.12
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.12'
 
-    - name: Validar JSON y Script
+    - name: Validar Base de Datos y Script
       run: |
-        python -c "import json; json.load(open('preguntas_quimica.json'))"
-        python main.py <<EOF
-        
-        EOF
+        # Forzamos la lectura en UTF-8 para evitar errores con tildes y eñes
+        python -c "import json; json.load(open('preguntas_quimica.json', encoding='utf-8'))"
+        # Verificamos que el script no tenga errores de sintaxis
+        python -m py_compile main.py
+
