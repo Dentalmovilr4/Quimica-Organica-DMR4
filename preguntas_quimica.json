@@ -1,66 +1,38 @@
 {
-  "repositorio": "Quimica-Organica-DMR4",
-  "tema": "Generalidades e Hibridación del Carbono",
-  "evaluacion": [
-    {
-      "id": 1,
-      "pregunta": "¿Cuál es la configuración electrónica correcta del átomo de carbono?",
-      "opciones": {
-        "A": "1s1 2s2 2p3",
-        "B": "1s2 2s1 2p3",
-        "C": "1s2 2s2 2p2",
-        "D": "1s2 2s3 2p1"
-      },
-      "respuesta_correcta": "C",
-      [span_0](start_span)"explicacion": "El carbono tiene número atómico 6, distribuyendo sus electrones en los niveles 1 y 2[span_0](end_span)."
-    },
-    {
-      "id": 2,
-      "pregunta": "Cuando el carbono posee enlaces dobles frente a otro átomo de carbono, ¿qué hibridación adopta?",
-      "opciones": {
-        "A": "Diagonal (sp)",
-        "B": "Trigonal (sp2)",
-        "C": "Simple",
-        "D": "Tetragonal (sp3)"
-      },
-      "respuesta_correcta": "B",
-      [span_1](start_span)"explicacion": "La hibridación sp2 es característica de los alquenos con enlaces dobles[span_1](end_span)."
-    },
-    {
-      "id": 3,
-      "pregunta": "La propiedad de tetravalencia del carbono significa que puede formar:",
-      "opciones": {
-        "A": "2 enlaces",
-        "B": "3 enlaces",
-        "C": "4 enlaces",
-        "D": "1 enlace"
-      },
-      "respuesta_correcta": "C",
-      [span_2](start_span)"explicacion": "La tetravalencia permite al carbono formar cuatro enlaces covalentes para alcanzar su estabilidad[span_2](end_span)."
-    },
-    {
-      "id": 4,
-      "pregunta": "¿Cuál fue el objetivo principal del Protocolo de Kioto establecido en 1997?",
-      "opciones": {
-        "A": "Aumentar la producción de combustibles fósiles",
-        "B": "Reducir las emisiones de gases de efecto invernadero (GEI) en al menos un 5%",
-        "C": "Prohibir el desarrollo industrial en países pobres",
-        "D": "Fomentar la deforestación de bosques tropicales"
-      },
-      "respuesta_correcta": "B",
-      [span_3](start_span)"explicacion": "El protocolo buscaba estabilizar las concentraciones de GEI tomando como base los niveles de 1990[span_3](end_span)."
-    },
-    {
-      "id": 5,
-      "pregunta": "Es una forma alotrópica del carbono:",
-      "opciones": {
-        "A": "Dióxido de carbono",
-        "B": "Metano",
-        "C": "Grafito",
-        "D": "Propano"
-      },
-      "respuesta_correcta": "C",
-      [span_4](start_span)"explicacion": "El grafito y el diamante son las formas alotrópicas naturales más conocidas del carbono sólido[span_4](end_span)."
-    }
+  "tema": "Cuestionario Integral - Química Orgánica e Hibridación",
+  "preguntas": [
+    [span_0](start_span){ "id": 1, "p": "¿La química orgánica estudia todos los compuestos del carbono?", "r": "Falso (excluye óxidos y carbonatos)[span_0](end_span)" },
+    [span_1](start_span){ "id": 2, "p": "¿Los compuestos orgánicos tienen generalmente enlace iónico?", "r": "Falso (tienen enlace covalente)[span_1](end_span)" },
+    [span_2](start_span){ "id": 3, "p": "Formas alotrópicas del carbono:", "r": "Grafito y diamante[span_2](end_span)" },
+    [span_3](start_span){ "id": 4, "p": "Fórmula molecular del Butano (4 carbonos):", "r": "C4H10[span_3](end_span)" },
+    [span_4](start_span){ "id": 5, "p": "Fórmula molecular del Etanol:", "r": "C2H6O[span_4](end_span)" },
+    [span_5](start_span){ "id": 6, "p": "¿El propano (C3H8) es orgánico?", "r": "Verdadero[span_5](end_span)" },
+    [span_6](start_span){ "id": 7, "p": "¿El CO2 es un compuesto orgánico?", "r": "Falso[span_6](end_span)" },
+    [span_7](start_span){ "id": 8, "p": "¿Los compuestos orgánicos son solubles en agua?", "r": "Falso[span_7](end_span)" },
+    [span_8](start_span){ "id": 9, "p": "Carbono con 4 enlaces sencillos (Hibridación):", "r": "sp3[span_8](end_span)" },
+    [span_9](start_span){ "id": 10, "p": "Carbono con 1 enlace doble (Hibridación):", "r": "sp2[span_9](end_span)" },
+    [span_10](start_span){ "id": 11, "p": "Carbono con 1 enlace triple (Hibridación):", "r": "sp[span_10](end_span)" },
+    [span_11](start_span){ "id": 12, "p": "Ángulo de enlace para hibridación sp (lineal):", "r": "180°[span_11](end_span)" },
+    [span_12](start_span){ "id": 13, "p": "Ángulo de enlace para hibridación sp2 (trigonal):", "r": "120°[span_12](end_span)" },
+    [span_13](start_span){ "id": 14, "p": "Ángulo de enlace para hibridación sp3 (tetraédrica):", "r": "109.5°[span_13](end_span)" },
+    [span_14](start_span){ "id": 15, "p": "Fórmula semidesarrollada del Octano:", "r": "CH3-(CH2)6-CH3[span_14](end_span)" },
+    [span_15](start_span){ "id": 16, "p": "Fórmula semidesarrollada del Decano:", "r": "CH3-(CH2)8-CH3[span_15](end_span)" },
+    [span_16](start_span){ "id": 17, "p": "Número atómico del carbono:", "r": "6[span_16](end_span)" },
+    [span_17](start_span){ "id": 18, "p": "Electrones totales del carbono:", "r": "6[span_17](end_span)" },
+    [span_18](start_span){ "id": 19, "p": "Configuración electrónica basal del carbono:", "r": "1s2 2s2 2p2[span_18](end_span)" },
+    [span_19](start_span){ "id": 20, "p": "Tipo de enlace principal en materia orgánica:", "r": "Covalente[span_19](end_span)" },
+    [span_20](start_span){ "id": 21, "p": "Tipo de hibridación en enlaces dobles C=C:", "r": "sp2 (Trigonal)[span_20](end_span)" },
+    [span_21](start_span){ "id": 22, "p": "Fórmula que muestra todos los enlaces C-H:", "r": "Desarrollada[span_21](end_span)" },
+    [span_22](start_span){ "id": 23, "p": "Propiedad de formar 4 enlaces:", "r": "Tetravalencia[span_22](end_span)" },
+    [span_23](start_span){ "id": 24, "p": "Gases de Efecto Invernadero (GEI) principales:", "r": "CO2, N2O, CH4, HCFs, PFCs, SF6[span_23](end_span)" },
+    [span_24](start_span){ "id": 25, "p": "Causa principal del aumento de CO2:", "r": "Uso de combustibles fósiles[span_24](end_span)" },
+    [span_25](start_span){ "id": 26, "p": "Aumento previsto de temperatura (IPCC):", "r": "1.4 a 5.8°C[span_25](end_span)" },
+    [span_26](start_span){ "id": 27, "p": "Aumento previsto del nivel del mar:", "r": "80 cm[span_26](end_span)" },
+    [span_27](start_span){ "id": 28, "p": "¿Qué busca la CMNUCC (1992)?", "r": "Estabilizar concentraciones de GEI[span_27](end_span)" },
+    [span_28](start_span){ "id": 29, "p": "Compromiso del Protocolo de Kioto (1997):", "r": "Reducir GEI en al menos un 5%[span_28](end_span)" },
+    [span_29](start_span){ "id": 30, "p": "Causa de inundaciones costeras:", "r": "Aumento en los niveles de los mares[span_29](end_span)" },
+    [span_30](start_span){ "id": 31, "p": "Enfermedades que migran por cambio climático:", "r": "Cólera y dengue[span_30](end_span)" },
+    [span_31](start_span){ "id": 32, "p": "Mejor política para frenar el calentamiento:", "r": "Apoyar proyectos de energías alternativas[span_31](end_span)" }
   ]
 }
+
